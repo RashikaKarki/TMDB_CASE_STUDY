@@ -42,4 +42,4 @@ This analysis tries to find properties associated with revenue.
     
     Likewise,the revenue of movie also seems to depend on the runtime of the movie and it may be because people like to spend more money on longer movies than the shorter ones. Also, revenue seems to depend on the year the movie was released as with time revenue of movies has increased, i.e the later the movie was released the more revenue it tends to generate.
     
- [Click here for brief analysis report](https://github.com/RashikaKarki/Udacity_TMDB_CASE_STUDY/blob/master/Investigate_a_Dataset%20(1).ipynb)
+ [Click here for complete analysis report](https://github.com/RashikaKarki/Udacity_TMDB_CASE_STUDY/blob/master/Investigate_a_Dataset%20(1).ipynb)
